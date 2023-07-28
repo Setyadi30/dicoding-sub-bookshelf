@@ -1,0 +1,20 @@
+{
+  "name": "dicoding-sub-bookshelf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.45.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.28.0"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2"
+  }
+}
